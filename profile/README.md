@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome to MimicForge – the ultimate home for your D&D characters and adventures. Whether you're crafting legendary heroes, managing epic quests, or uncovering hidden treasures, MimicForge is the place where your stories come to life. With intuitive tools and seamless management, every roll of the dice brings you closer to forging unforgettable campaigns. Unleash your imagination and start your adventure today!
 <!--
 
 **Here are some ideas to get you started:**
